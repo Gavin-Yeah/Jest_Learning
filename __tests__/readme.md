@@ -1,4 +1,5 @@
-modify
+modify  
+
 ``"scripts": {
     "test": "jest"
   },
@@ -6,6 +7,7 @@ modify
     "collectCoverage": true,
     "coverageReporters": ["html"]
   },
-``
+``  
+
   in package.json
 
